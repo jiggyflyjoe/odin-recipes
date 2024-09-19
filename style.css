@@ -6,24 +6,38 @@ body {
     font-family: "Tahoma", "Verdana", sans-serif;
 }
 
+.card {
+    background-color: #1f2937;
+    width: 800px;
+    margin: 16px auto;
+    padding: 5px;
+}
+
 h1 {
+    background-color: #58648d;
     font-size: 30px;
+    padding: 5px;
 }
 
 a {
-    background-color: #c9cacf;
+    color: #c9cacf;
+    font-size: 18px;
 }
 
 p,
 li {
-    font-size: 16px;
+    font-size: 18px;
 }
 
 h2 {
+    background-color: #58648d;
     font-size: 28px;
+    padding: 5px;
 }
 
 img {
-    height: auto;
-    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
 }
